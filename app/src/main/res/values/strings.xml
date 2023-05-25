@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server_port">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="alarm">Alarm</string>
+    <string name="query_type">Query Type</string>
+    <string name="set">Set</string>
+    <string name="reset">Reset</string>
+    <string name="poll">Poll</string>
+    <string name="response">Response</string>
+</resources>
